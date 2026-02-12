@@ -133,5 +133,7 @@ df_z_cleaned
 <img width="959" height="536" alt="image" src="https://github.com/user-attachments/assets/810f98f0-d552-47a2-a903-11abea2daab1" />
 
 
+[ilovepdf_merged.pdf](https://github.com/user-attachments/files/25248981/ilovepdf_merged.pdf)
+
 # Result
 The given data has been cleaned successfully using data cleaning process.
